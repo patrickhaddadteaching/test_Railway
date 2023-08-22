@@ -1,0 +1,12 @@
+voila==0.5.0
+voila-topbar==0.1.1
+ipykernel
+pandas
+bokeh
+bqplot
+ipympl=0.9.2
+jupyterlab-fasta
+matplotlib
+scipy
+vega_datasets
+ipyvolume
