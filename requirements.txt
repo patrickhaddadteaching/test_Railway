@@ -8,5 +8,6 @@ ipympl==0.9.2
 jupyterlab-fasta
 matplotlib
 scipy
+numpy
 vega_datasets
 ipyvolume
